@@ -189,9 +189,8 @@ async function simularTeleconsulta(usuarioLogado) {
 // --- Função Principal (Main) ---
 
 async function main() {
-    // ... (Código da função main que gerencia o menu e o loop, conforme o envio anterior)
     console.log("\n=======================================================");
-    console.log("PROJETO SGHSS: SIMULADOR INTERATIVO DE QUALIDADE DE SOFTWARE");
+    console.log("PROJETO SGHSS VIDAPLUS - Geovanna Melo, RU: 4466904");
     console.log("=======================================================");
 
     let continuar = true;
